@@ -1,6 +1,6 @@
 ---
 layout: post
-title: this is a new post created @ 12.21
+title: this is a new post created yesterday @ 12.21
 sub_heading: created on forestry.io
 date: 2019-07-16T23:00:00.000+00:00
 tags: []
@@ -24,4 +24,4 @@ and to cloudfront (public)
 
 test addition 13.03
 
-MAKING AN ADDITION FROM ATOM AT 00:50 
+MAKING AN ADDITION FROM ATOM AT 00:53
