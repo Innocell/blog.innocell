@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Week With the Apple Watch
+title: A Week With the Apple Watch 8989
 tags:
 - Tips
 - Minimal
