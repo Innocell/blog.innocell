@@ -14,8 +14,8 @@ His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Eff
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+    As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
 
-_Thank You for reading !!!!!!_
+> _Thank You for reading !!!!!!_
 
-![](/uploads/innocell.png)
+![](/assets/innocell.png)
