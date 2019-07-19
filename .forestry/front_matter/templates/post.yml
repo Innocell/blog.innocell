@@ -20,5 +20,3 @@ fields:
 - type: text
   name: author
   label: author
-pages:
-- _posts/testoewewewe.md
