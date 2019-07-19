@@ -6,6 +6,8 @@ featured_image: "/assets/images/pages/about.jpg"
 ---
 ![](/uploads/images/posts/2018/6.jpg)
 
+Edit made to page at 9.29
+
 **MY NAME IS SHIRAZ ZIYA !!!!**
 
 > > Daniel Bennett is a senior developer from Vilnius, Lithuania. After graduating from
