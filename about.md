@@ -4,6 +4,8 @@ title: About
 featured_image: "/assets/images/pages/about.jpg"
 
 ---
+![](/uploads/images/posts/2018/6.jpg)
+
 **MY NAME IS SHIRAZ ZIYA !!!!**
 
 Daniel Bennett is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
