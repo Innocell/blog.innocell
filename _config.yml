@@ -6,14 +6,14 @@ site_description: 'Welcome to my blog. It features topics such as fashion, archi
 logo: 'assets/innocell-500px.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
-production_url: https://forma.netlify.com/
+production_url: https://blog.innocell.org/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
-ga_analytics:
+ga_analytics: UA-131397711-2
 
 # Contact form setings
-email: youremail@email.com
+email: info@innocell.org
 contact_page_description: "Forma theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
@@ -44,6 +44,9 @@ plugins_dir:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-author-page
+
+plugins:
+  - jekyll-feed
 
 # Pagination
 paginate: 6

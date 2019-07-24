@@ -14,3 +14,4 @@ group :jekyll_plugins do
   gem 'jekyll-author-page'
 end
 
+gem 'jekyll-feed'
