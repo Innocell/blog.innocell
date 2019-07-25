@@ -3,7 +3,7 @@ name: 'Innocell'
 description: 'BLOG FOR INNOCELL.ORG WEBSITE'
 # Sidebar about text
 site_description: 'Welcome to my blog. It features topics such as fashion, architecture, travel & design. This blog is about finding balance in life, living with purpose, having fun, and doing what you love.'
-logo: 'assets/innocell-500px.png'
+logo: 'assets/innocell-500px-box.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: https://blog.innocell.org/
