@@ -45,9 +45,6 @@ plugins_dir:
   - jekyll-sitemap
   - jekyll-author-page
 
-plugins:
-  - jekyll-feed
-
 # Pagination
 paginate: 6
 paginate_path: /page:num/
