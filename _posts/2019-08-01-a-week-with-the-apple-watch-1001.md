@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Week With the Apple Watch 1001
+title: A Week With the Apple Watch 1001 copy
 tags:
 - Tips
 - Minimal
