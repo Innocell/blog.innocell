@@ -6,7 +6,7 @@ tags:
 - Minimal
 featured_image_thumbnail: 
 featured_image: assets/images/posts/2018/12.jpg
-author: daniel
+author: shiraz
 
 ---
 THE APPLE WATCH **IS CRAP!!!!!**
