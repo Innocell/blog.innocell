@@ -1,14 +1,14 @@
 # Site setings
-name: 'Innocell'
-description: 'BLOG FOR INNOCELL.ORG WEBSITE'
+name: 'Innocell Blog'
+description: 'Blogging home of Innocell.org'
 # Sidebar about text
-site_description: 'Welcome to my blog. It features topics such as fashion, architecture, travel & design. This blog is about finding balance in life, living with purpose, having fun, and doing what you love.'
-logo: 
+site_description: 'Blogging home of Innocell.org'
+logo: 'assets/images/logo-black500.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: https://blog.innocell.org/
-disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+disqus: 'innocell'
+mailchimp_url: ''
 # Add your GA Tracking Id
 ga_analytics: UA-131397711-2
 
@@ -18,14 +18,14 @@ contact_page_description: "Forma theme comes with a contact form built-in. You c
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'username'
-facebook: 'username'
-github: 'username'
-codepen: 'username'
-dribbble: 'username'
-medium: '@username'
-instagram: 'username'
-pinterest: 'username'
+twitter: 'innocelluk'
+facebook: ''
+github: '@username'
+codepen: ''
+dribbble: ''
+medium: ''
+instagram: ''
+pinterest: ''
 linkedin: 'username'
 
 # Navigation
